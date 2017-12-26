@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<topology xmlns="http://www.cisco.com/VIRL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="0.95" xsi:schemaLocation="http://www.cisco.com/VIRL https://raw.github.com/CiscoVIRL/schema/v0.95/virl.xsd">
+    <node name="fortios-1" type="SIMPLE" subtype="FortiOS" location="258,200" vmImage="FortiOS-5 [d8fdefab-e8fe-419f-aaa0-2c946db43a4d]" vmFlavor="FortiOS [6a7e0548-d162-4f38-8643-810054a840c1]"/>
+    <annotations/>
+</topology>
